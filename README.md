@@ -2,11 +2,15 @@
 
 Repository contains templates for [shaper tool](https://github.com/icerockdev/shaper).
 
-# Templates list
+## Templates list
 
 - `moko-library` - template for creating new [MOKO libraries](https://moko.icerock.dev/). 
 
-# License
+## Testing
+
+- `moko-library-test.sh` - run generation by `shaper-cli`, compile multiplatform, android, ios code and show changes of generated sources after all builds. 
+
+## License
         
     Copyright 2021 IceRock MAG Inc
     
