@@ -1,0 +1,8 @@
+globalParams:
+  name: utils
+  package: dev.icerock.moko.utils
+  kotlinVersion: 1.4.31
+  androidGradleVersion: 4.1.2
+  mobileMultiplatformVersion: 0.9.0
+
+files: moko-library/
