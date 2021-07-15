@@ -8,5 +8,5 @@ git commit -m "initial commit"
 ./gradlew build syncMultiPlatformLibraryDebugFrameworkIosX64
 cd sample/ios-app
 pod install
-xcodebuild xcodebuild -scheme ios-app -workspace ios-app.xcworkspace -configuration Debug -sdk iphonesimulator -arch x86_64 build CODE_SIGNING_REQUIRED=NO CODE_SIGNING_ALLOWED=NO | xcpretty
+xcodebuild -scheme ios-app -workspace ios-app.xcworkspace -configuration Debug build CODE_SIGNING_REQUIRED=NO
 git status
