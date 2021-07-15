@@ -10,7 +10,7 @@ buildscript {
     }
 
     dependencies {
-        classpath(":{{name}}-build-logic")
+        classpath(":web-build-logic")
     }
 }
 
