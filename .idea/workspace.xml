@@ -22,9 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f40025b5-74e8-49ad-a7c5-e7fc07225037" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/moko-library-test.sh" beforeDir="false" afterPath="$PROJECT_DIR$/moko-library-test.sh" afterDir="false" />
-    </list>
+    <list default="true" id="f40025b5-74e8-49ad-a7c5-e7fc07225037" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
