@@ -22,7 +22,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f40025b5-74e8-49ad-a7c5-e7fc07225037" name="Default Changelist" comment="" />
+    <list default="true" id="f40025b5-74e8-49ad-a7c5-e7fc07225037" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/moko-library-test.sh" beforeDir="false" afterPath="$PROJECT_DIR$/moko-library-test.sh" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,10 +76,14 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="100" y="100" width="1720" height="880" key="DiffContextDialog" timestamp="1626342005486">
+    <state x="100" y="100" width="1720" height="880" key="DiffContextDialog" timestamp="1626342650437">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="100" y="100" width="1720" height="880" key="DiffContextDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1626342005486" />
+    <state x="100" y="100" width="1720" height="880" key="DiffContextDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1626342650437" />
+    <state x="634" y="241" key="VCS.ChangeListViewerDialog" timestamp="1626342390418">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="634" y="241" key="VCS.ChangeListViewerDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1626342390418" />
     <state x="659" y="295" width="1063" height="582" key="find.popup" timestamp="1626341848307">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
