@@ -23,14 +23,14 @@ publishing {
     publications.withType<MavenPublication> {
         // Provide artifacts information requited by Maven Central
         pom {
-            name.set("MOKO utils")
-            description.set("Utilities for mobile (android & ios) Kotlin Multiplatform development")
-            url.set("https://github.com/icerockdev/moko-utils")
+            name.set("MOKO {{name}}")
+            description.set("Add description")
+            url.set("https://github.com/icerockdev/moko-{{name}}")
             licenses {
                 license {
                     name.set("Apache-2.0")
                     distribution.set("repo")
-                    url.set("https://github.com/icerockdev/moko-utils/blob/master/LICENSE.md")
+                    url.set("https://github.com/icerockdev/moko-{{name}}/blob/master/LICENSE.md")
                 }
             }
 
@@ -43,9 +43,9 @@ publishing {
             }
 
             scm {
-                connection.set("scm:git:ssh://github.com/icerockdev/moko-utils.git")
-                developerConnection.set("scm:git:ssh://github.com/icerockdev/moko-utils.git")
-                url.set("https://github.com/icerockdev/moko-utils")
+                connection.set("scm:git:ssh://github.com/icerockdev/moko-{{name}}.git")
+                developerConnection.set("scm:git:ssh://github.com/icerockdev/moko-{{name}}.git")
+                url.set("https://github.com/icerockdev/moko-{{name}}")
             }
         }
     }
