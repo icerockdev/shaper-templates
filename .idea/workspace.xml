@@ -22,33 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f40025b5-74e8-49ad-a7c5-e7fc07225037" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/moko-library/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/moko-library/gradle/libs.versions.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/moko-library/{{name}}-build-logic/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/moko-library/{{name}}-build-logic/src/main/kotlin/android-base-convention.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/moko-library/{{name}}-build-logic/src/main/kotlin/android-library-convention.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/moko-library/{{name}}-build-logic/src/main/kotlin/android-publication-convention.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/moko-library/{{name}}-build-logic/src/main/kotlin/detekt-convention.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/moko-library/{{name}}-build-logic/src/main/kotlin/javadoc-stub-convention.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/moko-library/{{name}}-build-logic/src/main/kotlin/multiplatform-library-convention.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/moko-library/{{name}}-build-logic/src/main/kotlin/publication-convention.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moko-library/.github/workflows/compilation-check.yml" beforeDir="false" afterPath="$PROJECT_DIR$/moko-library/.github/workflows/compilation-check.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moko-library/.github/workflows/publish.yml" beforeDir="false" afterPath="$PROJECT_DIR$/moko-library/.github/workflows/publish.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moko-library/buildSrc/build.gradle.kts.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/moko-library/buildSrc/src/main/kotlin/Deps.kt.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/moko-library/buildSrc/src/main/kotlin/android-app-convention.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/moko-library/{{name}}-build-logic/src/main/kotlin/android-app-convention.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moko-library/buildSrc/src/main/kotlin/android-base-convention.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/moko-library/buildSrc/src/main/kotlin/android-library-convention.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/moko-library/buildSrc/src/main/kotlin/mpp-library-convention.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/moko-library/buildSrc/src/main/kotlin/publication-convention.gradle.kts.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/moko-library/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/moko-library/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moko-library/sample/android-app/build.gradle.kts.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/moko-library/sample/android-app/build.gradle.kts.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moko-library/sample/build.gradle.kts.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/moko-library/sample/mpp-library/build.gradle.kts.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/moko-library/sample/mpp-library/build.gradle.kts.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moko-library/settings.gradle.kts.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/moko-library/settings.gradle.kts.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moko-library/{{name}}/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/moko-library/{{name}}/build.gradle.kts" afterDir="false" />
-    </list>
+    <list default="true" id="f40025b5-74e8-49ad-a7c5-e7fc07225037" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
