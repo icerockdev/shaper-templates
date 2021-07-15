@@ -3,10 +3,13 @@
  */
 
 plugins {
-    id("mpp-library-convention")
+    id("multiplatform-library-convention")
+    id("dev.icerock.mobile.multiplatform.android-manifest")
     id("publication-convention")
 }
 
 dependencies {
-    commonTestImplementation(Deps.Libs.MultiPlatform.mokoTest)
+    commonMainApi(libs.coroutines)
+
+    commonTestImplementation(libs.mokoTest)
 }

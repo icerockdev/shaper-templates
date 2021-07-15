@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f40025b5-74e8-49ad-a7c5-e7fc07225037" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/moko-library/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moko-library/gradle/libs.versions.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moko-library/{{name}}-build-logic/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moko-library/{{name}}-build-logic/src/main/kotlin/android-base-convention.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moko-library/{{name}}-build-logic/src/main/kotlin/android-library-convention.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moko-library/{{name}}-build-logic/src/main/kotlin/android-publication-convention.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moko-library/{{name}}-build-logic/src/main/kotlin/detekt-convention.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moko-library/{{name}}-build-logic/src/main/kotlin/javadoc-stub-convention.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moko-library/{{name}}-build-logic/src/main/kotlin/multiplatform-library-convention.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moko-library/{{name}}-build-logic/src/main/kotlin/publication-convention.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/moko-library/.github/workflows/compilation-check.yml" beforeDir="false" afterPath="$PROJECT_DIR$/moko-library/.github/workflows/compilation-check.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/moko-library/.github/workflows/publish.yml" beforeDir="false" afterPath="$PROJECT_DIR$/moko-library/.github/workflows/publish.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/moko-library/buildSrc/build.gradle.kts.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/moko-library/buildSrc/src/main/kotlin/Deps.kt.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/moko-library/buildSrc/src/main/kotlin/android-app-convention.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/moko-library/{{name}}-build-logic/src/main/kotlin/android-app-convention.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/moko-library/buildSrc/src/main/kotlin/android-base-convention.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/moko-library/buildSrc/src/main/kotlin/android-library-convention.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/moko-library/buildSrc/src/main/kotlin/mpp-library-convention.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/moko-library/buildSrc/src/main/kotlin/publication-convention.gradle.kts.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/moko-library/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/moko-library/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/moko-library/sample/android-app/build.gradle.kts.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/moko-library/sample/android-app/build.gradle.kts.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/moko-library/sample/build.gradle.kts.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/moko-library/sample/mpp-library/build.gradle.kts.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/moko-library/sample/mpp-library/build.gradle.kts.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/moko-library/settings.gradle.kts.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/moko-library/settings.gradle.kts.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/moko-library/{{name}}/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/moko-library/{{name}}/build.gradle.kts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KotlinMultiplatform">
+    <allAvailableExecutables />
+  </component>
+  <component name="ProjectId" id="1vLU1KuYbptVF25idt7zFbzbtYv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="android.sdk.path" value="$PROJECT_DIR$/../Library/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/moko-library" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/moko-library" />
+      <recent name="$PROJECT_DIR$/moko-library/gradle" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f40025b5-74e8-49ad-a7c5-e7fc07225037" name="Default Changelist" comment="" />
+      <created>1626340646710</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626340646710</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="100" width="1720" height="880" key="DiffContextDialog" timestamp="1626342005486">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="100" y="100" width="1720" height="880" key="DiffContextDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1626342005486" />
+    <state x="659" y="295" width="1063" height="582" key="find.popup" timestamp="1626341848307">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="659" y="295" width="1063" height="582" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1626341848307" />
+  </component>
+</project>
