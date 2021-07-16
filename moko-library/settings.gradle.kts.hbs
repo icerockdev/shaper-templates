@@ -2,28 +2,22 @@
  * Copyright 2021 IceRock MAG Inc. Use of this source code is governed by the Apache 2.0 license.
  */
 
-pluginManagement {
-    repositories {
-        gradlePluginPortal()
-        google()
-        mavenCentral()
-
-        maven { url = uri("https://dl.bintray.com/icerockdev/plugins") }
-
-        jcenter()
-    }
-}
+enableFeaturePreview("VERSION_CATALOGS")
+enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
 
 dependencyResolutionManagement {
     repositories {
-        google()
         mavenCentral()
+        google()
 
-        maven { url = uri("https://dl.bintray.com/icerockdev/moko") }
-
-        jcenter()
+        jcenter {
+            content {
+                includeGroup("org.jetbrains.kotlinx")
+            }
+        }
     }
 }
+includeBuild("{{name}}-build-logic")
 
 include(":{{name}}")
 include(":sample:android-app")
