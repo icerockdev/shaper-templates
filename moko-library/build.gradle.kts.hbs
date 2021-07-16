@@ -10,13 +10,13 @@ buildscript {
     }
 
     dependencies {
-        classpath(":web-build-logic")
+        classpath(":{{name}}-build-logic")
     }
 }
 
 allprojects {
     plugins.withId("org.gradle.maven-publish") {
         group = "dev.icerock.moko"
-        version = libs.versions.moko{{name}}Version.get()
+        version = libs.versions.moko{{cap name}}Version.get()
     }
 }
